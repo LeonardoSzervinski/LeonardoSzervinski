@@ -6,7 +6,7 @@
 
 #
 
-- 🌱 Software Engineering 5th semester
+- 🌱 Software Engineering 7th semester
 - 🏌️‍♀️ Object-oriented programming
 - 📫 How to reach me: leonardo.szervinski@hotmail.com
 
