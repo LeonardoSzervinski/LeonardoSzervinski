@@ -7,7 +7,7 @@
 #
 
 - 🌱 Bachelor's Degree in Software Engineering
-- 🏌️‍♀️ Object-oriented programming
+- 🏌️‍♀️ Web development · AI integration
 - 📫 How to reach me: leonardo.szervinski@hotmail.com
 
 ## 
