@@ -31,6 +31,6 @@
     Scrum · Kanban · Usability · Accessibility
   </p>
 
-  You can create anything: just write  
+    You can create anything: just write  
     
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
