@@ -12,7 +12,7 @@
 
 ## 
 
-### <i>Languages<i>
+### <i>Languages & technologies<i>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"></a>
     <img
@@ -42,6 +42,15 @@
       width="40"
       height="40"
     />
+    
+##
+
+### Engineering mindset
+  <p align="center">
+    Object-oriented programming · SOLID · Clean Code · Design Patterns<br />
+    REST APIs · SQL · Automated Testing · CI/CD<br />
+    Scrum · Kanban · Usability · Accessibility
+  </p>
 
     You can create anything: just write  
     
