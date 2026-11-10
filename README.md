@@ -1,57 +1,75 @@
 <h1 align="center">Hi, I'm Leo 🏃‍♂️</h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=120&amp;section=header"
+  alt=""
+  width="100%"
+/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Animated welcome message](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-#
+---
 
 - 🌱 Bachelor's Degree in Software Engineering
 - 🏌️‍♀️ Web development · AI integration
-- 📫 How to reach me: leonardo.szervinski@hotmail.com
+- 📫 How to reach me: [leonardo.szervinski@hotmail.com](mailto:leonardo.szervinski@hotmail.com)
 
-## 
+## Languages & Technologies
 
-### <i>Languages & technologies<i>
-  <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"></a>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      width="40"
-      height="40"
-    />
-   <a href="https://www.java.com" target="_blank"></a>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-      width="40"
-      height="40"
-    />
-    <a href="https://osorio.wait4.org/oldsite/manualc.pdf" target="_blank"></a>
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-        width="40"
-        height="40"
-    />
+<p align="left">
   <img
-      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-      width="40"
-      height="40"
-    />
-   <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-      width="40"
-      height="40"
-    />
-    
-##
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg"
+    alt="C"
+    title="C"
+    width="40"
+    height="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg"
+    alt="Java"
+    title="Java"
+    width="40"
+    height="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40"
+    height="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg"
+    alt="HTML"
+    title="HTML"
+    width="40"
+    height="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg"
+    alt="CSS"
+    title="CSS"
+    width="40"
+    height="40"
+  />
+</p>
 
-### Engineering mindset
-  <p align="center">
-    Object-oriented programming · SOLID · Clean Code · Design Patterns<br />
-    REST APIs · SQL · Automated Testing · CI/CD<br />
-    Scrum · Kanban · Usability · Accessibility
-  </p>
+## Engineering Mindset
 
-    You can create anything: just write  
-    
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<p align="center">
+  Object-oriented programming · SOLID · Clean Code · Design Patterns<br />
+  REST APIs · SQL · Automated Testing · CI/CD<br />
+  Scrum · Kanban · Usability · Accessibility
+</p>
+
+<p align="center">You can create anything: just write</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=120&amp;section=footer"
+  alt=""
+  width="100%"
+/>
